@@ -1,5 +1,7 @@
 # catbox-hyperdb
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Seldszar/catbox-hyperdb.svg)](https://greenkeeper.io/)
+
 Another HyperDB adapter for Catbox.
 
 ## Table of Contents
