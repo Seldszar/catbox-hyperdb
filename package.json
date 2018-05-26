@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "hyperdb": "^3.0.0-2"
+    "hyperdb": "^3.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
@@ -38,11 +38,11 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
     "husky": "^0.14.3",
-    "jest": "^22.4.2",
-    "lint-staged": "^7.0.0",
+    "jest": "^23.0.0",
+    "lint-staged": "^7.1.2",
     "nsp": "^3.2.1",
     "prettier": "^1.11.1",
-    "semantic-release": "^15.0.3"
+    "semantic-release": "^15.5.0"
   },
   "lint-staged": {
     "*.js": "eslint --format codeframe"
