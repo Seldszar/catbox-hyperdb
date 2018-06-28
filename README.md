@@ -12,7 +12,7 @@ Another HyperDB adapter for Catbox.
 ## Installation
 
 ```bash
-npm install seldszar/catbox-hyperdb --save
+npm install seldszar/catbox-hyperdb hyperdb --save
 ```
 
 ## Usage
